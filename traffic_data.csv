@@ -1,0 +1,466 @@
+Date,Source,Device,Sessions,Pageviews,Bounced Sessions,Conversions
+2026-10-01,Organic Search,Desktop,206,614,82,8
+2026-10-01,Organic Search,Mobile,224,668,111,6
+2026-10-01,Organic Search,Tablet,27,77,11,1
+2026-10-01,Direct,Desktop,130,384,43,7
+2026-10-01,Direct,Mobile,127,450,49,5
+2026-10-01,Direct,Tablet,16,53,6,1
+2026-10-01,Social,Desktop,106,269,54,2
+2026-10-01,Social,Mobile,112,263,73,1
+2026-10-01,Social,Tablet,14,31,8,0
+2026-10-01,Email,Desktop,51,137,13,4
+2026-10-01,Email,Mobile,51,168,19,3
+2026-10-01,Email,Tablet,6,18,2,0
+2026-10-01,Referral,Desktop,37,110,15,1
+2026-10-01,Referral,Mobile,40,114,20,1
+2026-10-01,Referral,Tablet,5,14,2,0
+2026-10-02,Organic Search,Desktop,191,424,68,9
+2026-10-02,Organic Search,Mobile,192,627,90,5
+2026-10-02,Organic Search,Tablet,25,73,10,1
+2026-10-02,Direct,Desktop,98,311,32,6
+2026-10-02,Direct,Mobile,108,404,44,4
+2026-10-02,Direct,Tablet,15,46,5,1
+2026-10-02,Social,Desktop,106,324,55,1
+2026-10-02,Social,Mobile,116,361,72,1
+2026-10-02,Social,Tablet,15,48,9,0
+2026-10-02,Email,Desktop,56,181,15,4
+2026-10-02,Email,Mobile,59,168,21,3
+2026-10-02,Email,Tablet,6,20,2,0
+2026-10-02,Referral,Desktop,36,119,16,1
+2026-10-02,Referral,Mobile,41,124,21,1
+2026-10-02,Referral,Tablet,5,16,2,0
+2026-10-03,Organic Search,Desktop,151,474,53,5
+2026-10-03,Organic Search,Mobile,175,462,79,4
+2026-10-03,Organic Search,Tablet,22,74,10,1
+2026-10-03,Direct,Desktop,103,383,30,5
+2026-10-03,Direct,Mobile,104,311,42,3
+2026-10-03,Direct,Tablet,12,34,4,1
+2026-10-03,Social,Desktop,72,194,37,1
+2026-10-03,Social,Mobile,74,204,48,1
+2026-10-03,Social,Tablet,10,23,6,0
+2026-10-03,Email,Desktop,37,136,9,3
+2026-10-03,Email,Mobile,37,108,13,2
+2026-10-03,Email,Tablet,5,14,1,0
+2026-10-03,Referral,Desktop,35,104,14,1
+2026-10-03,Referral,Mobile,40,90,20,1
+2026-10-03,Referral,Tablet,4,13,2,0
+2026-10-04,Organic Search,Desktop,148,359,52,7
+2026-10-04,Organic Search,Mobile,139,441,69,4
+2026-10-04,Organic Search,Tablet,18,53,8,1
+2026-10-04,Direct,Desktop,86,270,30,5
+2026-10-04,Direct,Mobile,86,236,33,3
+2026-10-04,Direct,Tablet,10,31,3,0
+2026-10-04,Social,Desktop,74,171,40,1
+2026-10-04,Social,Mobile,77,254,49,1
+2026-10-04,Social,Tablet,10,34,6,0
+2026-10-04,Email,Desktop,41,148,10,3
+2026-10-04,Email,Mobile,46,136,16,2
+2026-10-04,Email,Tablet,5,16,2,0
+2026-10-04,Referral,Desktop,32,103,13,1
+2026-10-04,Referral,Mobile,34,111,18,1
+2026-10-04,Referral,Tablet,5,16,2,0
+2026-10-05,Organic Search,Desktop,196,514,79,9
+2026-10-05,Organic Search,Mobile,189,540,84,5
+2026-10-05,Organic Search,Tablet,24,71,11,1
+2026-10-05,Direct,Desktop,130,381,43,7
+2026-10-05,Direct,Mobile,131,337,56,5
+2026-10-05,Direct,Tablet,18,53,6,1
+2026-10-05,Social,Desktop,119,298,64,2
+2026-10-05,Social,Mobile,120,343,72,1
+2026-10-05,Social,Tablet,16,54,9,0
+2026-10-05,Email,Desktop,48,185,12,3
+2026-10-05,Email,Mobile,53,193,17,2
+2026-10-05,Email,Tablet,6,18,2,0
+2026-10-05,Referral,Desktop,43,122,18,1
+2026-10-05,Referral,Mobile,47,156,23,1
+2026-10-05,Referral,Tablet,6,18,3,0
+2026-10-06,Organic Search,Desktop,189,561,72,7
+2026-10-06,Organic Search,Mobile,217,527,96,6
+2026-10-06,Organic Search,Tablet,25,64,11,1
+2026-10-06,Direct,Desktop,132,455,46,7
+2026-10-06,Direct,Mobile,132,500,55,5
+2026-10-06,Direct,Tablet,18,61,7,1
+2026-10-06,Social,Desktop,120,399,66,2
+2026-10-06,Social,Mobile,125,332,82,1
+2026-10-06,Social,Tablet,16,52,9,0
+2026-10-06,Email,Desktop,63,184,17,5
+2026-10-06,Email,Mobile,63,178,24,3
+2026-10-06,Email,Tablet,8,22,3,0
+2026-10-06,Referral,Desktop,42,132,18,1
+2026-10-06,Referral,Mobile,40,124,19,1
+2026-10-06,Referral,Tablet,5,13,2,0
+2026-10-07,Organic Search,Desktop,189,565,68,8
+2026-10-07,Organic Search,Mobile,204,608,93,6
+2026-10-07,Organic Search,Tablet,26,83,11,1
+2026-10-07,Direct,Desktop,131,402,39,7
+2026-10-07,Direct,Mobile,129,366,52,5
+2026-10-07,Direct,Tablet,16,41,6,1
+2026-10-07,Social,Desktop,122,294,62,2
+2026-10-07,Social,Mobile,126,337,83,1
+2026-10-07,Social,Tablet,17,46,10,0
+2026-10-07,Email,Desktop,59,180,16,5
+2026-10-07,Email,Mobile,61,228,23,3
+2026-10-07,Email,Tablet,8,27,2,0
+2026-10-07,Referral,Desktop,39,94,16,1
+2026-10-07,Referral,Mobile,43,136,21,1
+2026-10-07,Referral,Tablet,6,14,3,0
+2026-10-08,Organic Search,Desktop,178,567,69,8
+2026-10-08,Organic Search,Mobile,201,583,98,6
+2026-10-08,Organic Search,Tablet,23,73,9,1
+2026-10-08,Direct,Desktop,136,379,46,8
+2026-10-08,Direct,Mobile,131,333,57,5
+2026-10-08,Direct,Tablet,15,56,5,1
+2026-10-08,Social,Desktop,108,295,56,2
+2026-10-08,Social,Mobile,118,328,78,1
+2026-10-08,Social,Tablet,16,40,9,0
+2026-10-08,Email,Desktop,182,709,43,14
+2026-10-08,Email,Mobile,167,482,61,9
+2026-10-08,Email,Tablet,24,94,8,1
+2026-10-08,Referral,Desktop,46,133,18,2
+2026-10-08,Referral,Mobile,50,158,24,1
+2026-10-08,Referral,Tablet,6,16,3,0
+2026-10-09,Organic Search,Desktop,200,588,81,7
+2026-10-09,Organic Search,Mobile,183,600,90,5
+2026-10-09,Organic Search,Tablet,26,59,12,1
+2026-10-09,Direct,Desktop,122,379,41,7
+2026-10-09,Direct,Mobile,132,406,53,5
+2026-10-09,Direct,Tablet,16,53,5,1
+2026-10-09,Social,Desktop,113,344,60,2
+2026-10-09,Social,Mobile,109,325,69,1
+2026-10-09,Social,Tablet,13,29,8,0
+2026-10-09,Email,Desktop,44,134,11,4
+2026-10-09,Email,Mobile,50,192,17,2
+2026-10-09,Email,Tablet,6,16,2,0
+2026-10-09,Referral,Desktop,41,106,16,1
+2026-10-09,Referral,Mobile,42,101,21,1
+2026-10-09,Referral,Tablet,6,20,3,0
+2026-10-10,Organic Search,Desktop,154,409,61,7
+2026-10-10,Organic Search,Mobile,158,492,77,4
+2026-10-10,Organic Search,Tablet,22,73,10,1
+2026-10-10,Direct,Desktop,99,309,33,6
+2026-10-10,Direct,Mobile,103,319,43,4
+2026-10-10,Direct,Tablet,14,53,5,1
+2026-10-10,Social,Desktop,78,198,44,1
+2026-10-10,Social,Mobile,77,208,48,1
+2026-10-10,Social,Tablet,10,25,6,0
+2026-10-10,Email,Desktop,42,151,10,3
+2026-10-10,Email,Mobile,41,115,13,2
+2026-10-10,Email,Tablet,5,15,1,0
+2026-10-10,Referral,Desktop,35,90,15,1
+2026-10-10,Referral,Mobile,35,80,18,1
+2026-10-10,Referral,Tablet,4,10,2,0
+2026-10-11,Organic Search,Desktop,149,479,61,7
+2026-10-11,Organic Search,Mobile,147,331,73,4
+2026-10-11,Organic Search,Tablet,21,47,8,1
+2026-10-11,Direct,Desktop,87,255,28,5
+2026-10-11,Direct,Mobile,97,284,38,4
+2026-10-11,Direct,Tablet,12,44,5,1
+2026-10-11,Social,Desktop,77,246,39,1
+2026-10-11,Social,Mobile,78,264,50,1
+2026-10-11,Social,Tablet,9,22,5,0
+2026-10-11,Email,Desktop,37,137,9,3
+2026-10-11,Email,Mobile,40,152,13,2
+2026-10-11,Email,Tablet,5,18,2,0
+2026-10-11,Referral,Desktop,31,78,13,1
+2026-10-11,Referral,Mobile,33,79,16,1
+2026-10-11,Referral,Tablet,4,12,2,0
+2026-10-12,Organic Search,Desktop,210,470,82,10
+2026-10-12,Organic Search,Mobile,228,748,108,6
+2026-10-12,Organic Search,Tablet,30,96,13,1
+2026-10-12,Direct,Desktop,121,350,39,7
+2026-10-12,Direct,Mobile,120,371,46,5
+2026-10-12,Direct,Tablet,16,43,6,1
+2026-10-12,Social,Desktop,108,284,61,2
+2026-10-12,Social,Mobile,115,316,72,1
+2026-10-12,Social,Tablet,15,45,9,0
+2026-10-12,Email,Desktop,49,188,13,4
+2026-10-12,Email,Mobile,52,153,18,2
+2026-10-12,Email,Tablet,7,23,2,0
+2026-10-12,Referral,Desktop,43,96,19,2
+2026-10-12,Referral,Mobile,49,146,24,1
+2026-10-12,Referral,Tablet,6,17,3,0
+2026-10-13,Organic Search,Desktop,215,490,84,10
+2026-10-13,Organic Search,Mobile,222,743,108,7
+2026-10-13,Organic Search,Tablet,27,86,11,1
+2026-10-13,Direct,Desktop,138,398,41,8
+2026-10-13,Direct,Mobile,132,402,50,5
+2026-10-13,Direct,Tablet,18,61,6,1
+2026-10-13,Social,Desktop,112,322,62,2
+2026-10-13,Social,Mobile,112,282,73,1
+2026-10-13,Social,Tablet,15,48,8,0
+2026-10-13,Email,Desktop,51,130,14,4
+2026-10-13,Email,Mobile,55,194,19,3
+2026-10-13,Email,Tablet,7,23,2,0
+2026-10-13,Referral,Desktop,47,122,20,2
+2026-10-13,Referral,Mobile,45,130,22,1
+2026-10-13,Referral,Tablet,6,19,3,0
+2026-10-14,Organic Search,Desktop,184,624,71,7
+2026-10-14,Organic Search,Mobile,201,596,95,5
+2026-10-14,Organic Search,Tablet,24,63,10,1
+2026-10-14,Direct,Desktop,117,339,38,6
+2026-10-14,Direct,Mobile,124,413,53,5
+2026-10-14,Direct,Tablet,16,46,6,1
+2026-10-14,Social,Desktop,122,320,63,2
+2026-10-14,Social,Mobile,129,350,80,1
+2026-10-14,Social,Tablet,15,40,9,0
+2026-10-14,Email,Desktop,61,167,15,5
+2026-10-14,Email,Mobile,66,187,22,4
+2026-10-14,Email,Tablet,7,21,2,0
+2026-10-14,Referral,Desktop,42,127,16,2
+2026-10-14,Referral,Mobile,43,104,21,1
+2026-10-14,Referral,Tablet,6,19,3,0
+2026-10-15,Organic Search,Desktop,178,398,64,7
+2026-10-15,Organic Search,Mobile,195,435,97,6
+2026-10-15,Organic Search,Tablet,23,53,9,1
+2026-10-15,Direct,Desktop,129,419,43,7
+2026-10-15,Direct,Mobile,131,454,51,5
+2026-10-15,Direct,Tablet,16,60,6,1
+2026-10-15,Social,Desktop,104,328,57,2
+2026-10-15,Social,Mobile,103,314,66,1
+2026-10-15,Social,Tablet,14,42,8,0
+2026-10-15,Email,Desktop,45,165,11,4
+2026-10-15,Email,Mobile,47,147,18,2
+2026-10-15,Email,Tablet,6,16,2,0
+2026-10-15,Referral,Desktop,43,120,18,1
+2026-10-15,Referral,Mobile,43,96,20,1
+2026-10-15,Referral,Tablet,6,16,3,0
+2026-10-16,Organic Search,Desktop,178,494,72,7
+2026-10-16,Organic Search,Mobile,189,631,94,5
+2026-10-16,Organic Search,Tablet,24,54,10,1
+2026-10-16,Direct,Desktop,112,353,33,6
+2026-10-16,Direct,Mobile,133,404,57,5
+2026-10-16,Direct,Tablet,15,49,5,1
+2026-10-16,Social,Desktop,237,770,134,3
+2026-10-16,Social,Mobile,244,633,146,3
+2026-10-16,Social,Tablet,32,94,19,0
+2026-10-16,Email,Desktop,53,198,12,4
+2026-10-16,Email,Mobile,52,187,19,3
+2026-10-16,Email,Tablet,7,25,2,0
+2026-10-16,Referral,Desktop,35,105,15,1
+2026-10-16,Referral,Mobile,38,103,20,1
+2026-10-16,Referral,Tablet,5,15,2,0
+2026-10-17,Organic Search,Desktop,155,522,57,7
+2026-10-17,Organic Search,Mobile,159,438,78,4
+2026-10-17,Organic Search,Tablet,19,49,8,1
+2026-10-17,Direct,Desktop,106,331,32,6
+2026-10-17,Direct,Mobile,106,341,46,4
+2026-10-17,Direct,Tablet,13,40,5,1
+2026-10-17,Social,Desktop,92,287,47,1
+2026-10-17,Social,Mobile,93,223,61,1
+2026-10-17,Social,Tablet,11,30,6,0
+2026-10-17,Email,Desktop,41,148,11,3
+2026-10-17,Email,Mobile,45,143,17,2
+2026-10-17,Email,Tablet,5,13,2,0
+2026-10-17,Referral,Desktop,34,100,13,1
+2026-10-17,Referral,Mobile,34,108,17,1
+2026-10-17,Referral,Tablet,4,11,2,0
+2026-10-18,Organic Search,Desktop,136,421,51,7
+2026-10-18,Organic Search,Mobile,139,348,67,4
+2026-10-18,Organic Search,Tablet,18,56,7,1
+2026-10-18,Direct,Desktop,83,239,25,5
+2026-10-18,Direct,Mobile,89,321,35,3
+2026-10-18,Direct,Tablet,12,35,4,1
+2026-10-18,Social,Desktop,80,196,42,1
+2026-10-18,Social,Mobile,86,265,52,1
+2026-10-18,Social,Tablet,10,30,6,0
+2026-10-18,Email,Desktop,35,89,10,2
+2026-10-18,Email,Mobile,42,114,15,2
+2026-10-18,Email,Tablet,5,16,2,0
+2026-10-18,Referral,Desktop,32,93,13,1
+2026-10-18,Referral,Mobile,30,86,14,1
+2026-10-18,Referral,Tablet,4,11,2,0
+2026-10-19,Organic Search,Desktop,214,599,81,9
+2026-10-19,Organic Search,Mobile,202,494,95,5
+2026-10-19,Organic Search,Tablet,26,76,11,1
+2026-10-19,Direct,Desktop,138,487,44,9
+2026-10-19,Direct,Mobile,139,438,53,6
+2026-10-19,Direct,Tablet,17,60,6,1
+2026-10-19,Social,Desktop,107,247,59,2
+2026-10-19,Social,Mobile,121,308,75,1
+2026-10-19,Social,Tablet,15,36,8,0
+2026-10-19,Email,Desktop,54,210,14,4
+2026-10-19,Email,Mobile,59,159,22,3
+2026-10-19,Email,Tablet,7,19,2,0
+2026-10-19,Referral,Desktop,39,111,16,2
+2026-10-19,Referral,Mobile,44,132,23,1
+2026-10-19,Referral,Tablet,5,13,2,0
+2026-10-20,Organic Search,Desktop,206,482,82,8
+2026-10-20,Organic Search,Mobile,197,635,92,5
+2026-10-20,Organic Search,Tablet,25,83,11,1
+2026-10-20,Direct,Desktop,133,451,42,8
+2026-10-20,Direct,Mobile,140,484,55,6
+2026-10-20,Direct,Tablet,19,49,7,1
+2026-10-20,Social,Desktop,110,267,58,2
+2026-10-20,Social,Mobile,123,288,75,1
+2026-10-20,Social,Tablet,15,37,9,0
+2026-10-20,Email,Desktop,60,215,15,5
+2026-10-20,Email,Mobile,59,158,21,2
+2026-10-20,Email,Tablet,7,24,2,0
+2026-10-20,Referral,Desktop,47,156,18,2
+2026-10-20,Referral,Mobile,49,130,23,1
+2026-10-20,Referral,Tablet,7,18,3,0
+2026-10-21,Organic Search,Desktop,228,647,83,9
+2026-10-21,Organic Search,Mobile,230,516,107,7
+2026-10-21,Organic Search,Tablet,29,94,13,1
+2026-10-21,Direct,Desktop,121,466,42,7
+2026-10-21,Direct,Mobile,121,472,52,5
+2026-10-21,Direct,Tablet,15,47,5,1
+2026-10-21,Social,Desktop,107,363,56,1
+2026-10-21,Social,Mobile,108,257,71,1
+2026-10-21,Social,Tablet,13,30,8,0
+2026-10-21,Email,Desktop,52,159,15,4
+2026-10-21,Email,Mobile,49,138,17,2
+2026-10-21,Email,Tablet,7,20,2,0
+2026-10-21,Referral,Desktop,48,144,20,2
+2026-10-21,Referral,Mobile,48,133,23,1
+2026-10-21,Referral,Tablet,6,13,3,0
+2026-10-22,Organic Search,Desktop,216,734,88,8
+2026-10-22,Organic Search,Mobile,224,546,102,6
+2026-10-22,Organic Search,Tablet,26,73,11,1
+2026-10-22,Direct,Desktop,117,370,39,6
+2026-10-22,Direct,Mobile,123,448,48,5
+2026-10-22,Direct,Tablet,16,60,5,1
+2026-10-22,Social,Desktop,106,307,57,1
+2026-10-22,Social,Mobile,106,278,69,1
+2026-10-22,Social,Tablet,15,44,8,0
+2026-10-22,Email,Desktop,180,649,50,14
+2026-10-22,Email,Mobile,171,436,63,9
+2026-10-22,Email,Tablet,23,63,7,1
+2026-10-22,Referral,Desktop,43,113,19,2
+2026-10-22,Referral,Mobile,41,113,20,1
+2026-10-22,Referral,Tablet,5,16,2,0
+2026-10-23,Organic Search,Desktop,197,616,76,9
+2026-10-23,Organic Search,Mobile,186,499,82,5
+2026-10-23,Organic Search,Tablet,25,74,10,1
+2026-10-23,Direct,Desktop,119,462,36,7
+2026-10-23,Direct,Mobile,113,344,44,4
+2026-10-23,Direct,Tablet,15,51,5,1
+2026-10-23,Social,Desktop,112,369,62,1
+2026-10-23,Social,Mobile,112,361,72,1
+2026-10-23,Social,Tablet,13,37,7,0
+2026-10-23,Email,Desktop,51,153,14,4
+2026-10-23,Email,Mobile,55,172,19,3
+2026-10-23,Email,Tablet,7,23,2,0
+2026-10-23,Referral,Desktop,37,117,16,1
+2026-10-23,Referral,Mobile,38,99,19,1
+2026-10-23,Referral,Tablet,5,12,2,0
+2026-10-24,Organic Search,Desktop,163,411,62,6
+2026-10-24,Organic Search,Mobile,165,539,74,5
+2026-10-24,Organic Search,Tablet,22,74,9,1
+2026-10-24,Direct,Desktop,91,321,30,5
+2026-10-24,Direct,Mobile,105,362,41,4
+2026-10-24,Direct,Tablet,13,42,5,1
+2026-10-24,Social,Desktop,79,182,43,1
+2026-10-24,Social,Mobile,77,244,50,1
+2026-10-24,Social,Tablet,10,24,6,0
+2026-10-24,Email,Desktop,40,105,10,4
+2026-10-24,Email,Mobile,40,141,13,2
+2026-10-24,Email,Tablet,5,19,1,0
+2026-10-24,Referral,Desktop,34,86,14,1
+2026-10-24,Referral,Mobile,32,96,16,1
+2026-10-24,Referral,Tablet,4,10,2,0
+2026-10-25,Organic Search,Desktop,124,389,48,5
+2026-10-25,Organic Search,Mobile,147,379,66,4
+2026-10-25,Organic Search,Tablet,18,44,8,1
+2026-10-25,Direct,Desktop,89,239,31,5
+2026-10-25,Direct,Mobile,92,355,37,3
+2026-10-25,Direct,Tablet,11,36,4,1
+2026-10-25,Social,Desktop,78,174,43,1
+2026-10-25,Social,Mobile,79,228,51,1
+2026-10-25,Social,Tablet,10,23,6,0
+2026-10-25,Email,Desktop,37,103,10,3
+2026-10-25,Email,Mobile,35,113,13,2
+2026-10-25,Email,Tablet,5,17,1,0
+2026-10-25,Referral,Desktop,29,85,12,1
+2026-10-25,Referral,Mobile,31,71,16,1
+2026-10-25,Referral,Tablet,4,10,2,0
+2026-10-26,Organic Search,Desktop,190,499,67,8
+2026-10-26,Organic Search,Mobile,204,558,91,6
+2026-10-26,Organic Search,Tablet,24,72,10,1
+2026-10-26,Direct,Desktop,125,367,39,8
+2026-10-26,Direct,Mobile,122,347,50,5
+2026-10-26,Direct,Tablet,16,59,6,1
+2026-10-26,Social,Desktop,107,314,56,2
+2026-10-26,Social,Mobile,110,284,68,1
+2026-10-26,Social,Tablet,13,42,7,0
+2026-10-26,Email,Desktop,61,207,16,5
+2026-10-26,Email,Mobile,57,170,19,3
+2026-10-26,Email,Tablet,7,18,2,0
+2026-10-26,Referral,Desktop,45,143,19,1
+2026-10-26,Referral,Mobile,44,140,22,1
+2026-10-26,Referral,Tablet,6,15,3,0
+2026-10-27,Organic Search,Desktop,187,630,68,7
+2026-10-27,Organic Search,Mobile,212,685,104,7
+2026-10-27,Organic Search,Tablet,27,73,11,1
+2026-10-27,Direct,Desktop,134,355,43,8
+2026-10-27,Direct,Mobile,148,512,56,5
+2026-10-27,Direct,Tablet,19,71,7,1
+2026-10-27,Social,Desktop,116,358,66,1
+2026-10-27,Social,Mobile,124,382,76,1
+2026-10-27,Social,Tablet,17,44,10,0
+2026-10-27,Email,Desktop,63,184,17,5
+2026-10-27,Email,Mobile,58,164,21,3
+2026-10-27,Email,Tablet,7,23,2,0
+2026-10-27,Referral,Desktop,42,102,17,1
+2026-10-27,Referral,Mobile,45,135,23,1
+2026-10-27,Referral,Tablet,5,14,2,0
+2026-10-28,Organic Search,Desktop,206,469,74,8
+2026-10-28,Organic Search,Mobile,231,639,106,5
+2026-10-28,Organic Search,Tablet,27,61,12,1
+2026-10-28,Direct,Desktop,123,349,40,7
+2026-10-28,Direct,Mobile,123,346,53,5
+2026-10-28,Direct,Tablet,14,48,5,1
+2026-10-28,Social,Desktop,103,330,58,2
+2026-10-28,Social,Mobile,104,280,65,1
+2026-10-28,Social,Tablet,13,44,7,0
+2026-10-28,Email,Desktop,55,174,16,5
+2026-10-28,Email,Mobile,54,173,17,2
+2026-10-28,Email,Tablet,7,21,2,0
+2026-10-28,Referral,Desktop,47,157,19,2
+2026-10-28,Referral,Mobile,44,123,21,1
+2026-10-28,Referral,Tablet,5,13,2,0
+2026-10-29,Organic Search,Desktop,199,632,73,8
+2026-10-29,Organic Search,Mobile,204,615,92,5
+2026-10-29,Organic Search,Tablet,28,84,11,1
+2026-10-29,Direct,Desktop,121,427,41,7
+2026-10-29,Direct,Mobile,121,356,50,5
+2026-10-29,Direct,Tablet,15,45,5,1
+2026-10-29,Social,Desktop,96,282,51,1
+2026-10-29,Social,Mobile,104,289,68,1
+2026-10-29,Social,Tablet,13,36,8,0
+2026-10-29,Email,Desktop,48,140,13,3
+2026-10-29,Email,Mobile,48,166,17,2
+2026-10-29,Email,Tablet,6,23,2,0
+2026-10-29,Referral,Desktop,42,143,17,1
+2026-10-29,Referral,Mobile,45,131,21,1
+2026-10-29,Referral,Tablet,6,17,3,0
+2026-10-30,Organic Search,Desktop,166,371,62,7
+2026-10-30,Organic Search,Mobile,199,558,95,5
+2026-10-30,Organic Search,Tablet,24,77,10,1
+2026-10-30,Direct,Desktop,131,350,41,8
+2026-10-30,Direct,Mobile,123,458,53,5
+2026-10-30,Direct,Tablet,15,57,5,1
+2026-10-30,Social,Desktop,92,225,49,1
+2026-10-30,Social,Mobile,95,298,58,1
+2026-10-30,Social,Tablet,13,35,8,0
+2026-10-30,Email,Desktop,45,138,10,4
+2026-10-30,Email,Mobile,48,129,18,2
+2026-10-30,Email,Tablet,6,20,2,0
+2026-10-30,Referral,Desktop,45,130,19,2
+2026-10-30,Referral,Mobile,42,131,21,1
+2026-10-30,Referral,Tablet,5,12,2,0
+2026-10-31,Organic Search,Desktop,174,491,61,7
+2026-10-31,Organic Search,Mobile,180,573,88,4
+2026-10-31,Organic Search,Tablet,22,57,9,1
+2026-10-31,Direct,Desktop,89,248,30,6
+2026-10-31,Direct,Mobile,85,310,34,4
+2026-10-31,Direct,Tablet,12,44,5,1
+2026-10-31,Social,Desktop,86,193,46,1
+2026-10-31,Social,Mobile,83,184,51,1
+2026-10-31,Social,Tablet,11,34,7,0
+2026-10-31,Email,Desktop,37,96,9,3
+2026-10-31,Email,Mobile,37,107,13,2
+2026-10-31,Email,Tablet,5,18,2,0
+2026-10-31,Referral,Desktop,37,116,16,1
+2026-10-31,Referral,Mobile,39,109,19,1
+2026-10-31,Referral,Tablet,5,14,2,0
